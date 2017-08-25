@@ -2667,3 +2667,15 @@ span.color-red {
 .dropdown.open a.dropdown-toggle .caret {
   border-top: 4px solid #FFF;
 }
+
+/*newsletter css here*/
+/*.cover{background:url(../img/newsletter/topband.jpg) no-repeat center; background-size:cover; height:420px; width:100%; padding:0; margin:0; }*/
+.banner {
+  padding-top: 46px;
+}
+.banner img {
+  width: 100%;
+}
+.testimonial-bubble h4 {
+  color: #5c0e00;
+}
