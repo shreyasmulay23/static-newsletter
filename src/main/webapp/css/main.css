@@ -3,6 +3,7 @@
 --------------------------------------------------------------------------*/
 body {
   background: url(../img/page-background.png);
+  /*background-color: #faebcc;*/
 }
 .section {
   padding: 30px 0;
@@ -71,30 +72,30 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 14px;
   line-height: 20px;
-  color: #535b60;
+  color: black;
 }
 h1 {
-  color: #53555c;
+  color: black;
   font-family: 'Open Sans', sans-serif;
   font-weight: 800;
 }
 h2 {
-  color: #53555c;
+  color: black;
   font-family: 'Open Sans', sans-serif;
   font-size: 2em;
-  border-bottom: 2px solid #53555c;
+  border-bottom: 2px solid red;
   line-height: 1.5em;
   margin: 30px 0;
   padding-left: 10px;
 }
 h3 {
   font-family: 'Open Sans', sans-serif;
-  color: #53555c;
+  color: black;
   font-size: 1.5em;
 }
 h4 {
   font-family: 'Open Sans', sans-serif;
-  color: #53555c;
+  color: black;
   margin-bottom: 10px;
 }
 a {
@@ -613,7 +614,7 @@ a:hover {
 .single-post-info {
   margin-bottom: 20px;
   padding-bottom: 10px;
-  border-bottom: 1px dotted #828282;
+  border-bottom: 1px dotted red;
 }
 .single-post-info i {
   color: #333;
@@ -631,10 +632,10 @@ a:hover {
 .single-post-content {
   margin: 30px 0 20px 0;
   padding-bottom: 20px;
-  border-bottom: 2px dotted #CCC;
+  border-bottom: 2px dotted red;
 }
 .single-post-content p {
-  color: #828282;
+  color: black;
   font-size: 0.9em;
   text-align: justify;
 }
