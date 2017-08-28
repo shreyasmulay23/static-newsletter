@@ -2672,5 +2672,15 @@ span.color-red {
   margin-top: 46px;
 }
 .news-section {
-  margin-top: 60px;
+  margin-top: 20px;
+}
+.clear-div {
+  height: 35px;
+  float: left;
+  width: 100%;
+}
+@media screen and (max-width: 768px) {
+    .clear-div {
+      height: 55px;
+    }
 }
